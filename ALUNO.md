@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: pedrohcmg1
+Nome: Pedro Henrique Correia Magalhães
 
-RA: >>> PREENCHER <<<
+RA: >>> 23021836-2 <<<
 
 Conta GitHub: @pedrohcmg1
 
